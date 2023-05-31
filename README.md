@@ -1,9 +1,12 @@
-- oi, eu sou a isabella.
-- estou estudando no alura.
-- estou desenvolvendo na linguagem jav
+- oi, eu sou a *isabella* .😁😁
+- estou estudando no **alura.😊
+-sou estudante da escola Leopoldina.
+
+
+estou desenvolvendo na linguagem javascript!
 
 
 <!---
-isavkn/isavkn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+meu e-mail contato. é. @isabella.vulcano@escola.pr.gov.br
+
 --->
